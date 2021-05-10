@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rudreshpatre
 - 👀 I’m interested in creating cloud native backend apps
-- 🌱 I’m currently learning Azure 
+- 🌱 I’m currently exploring developing in Azure 
 
 
 
