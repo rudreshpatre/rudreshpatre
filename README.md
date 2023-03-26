@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rudreshpatre
 - 👀 I’m interested in building efficient distributed systems
-- 🌱 I’m currently exploring developing Domain Driven Design 
+- 🌱 I’m currently exploring Domain Driven Design 
 
 
 
